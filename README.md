@@ -7,11 +7,16 @@
 
 ---
 
-### 📘 About Me
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **DSA from Udemy**
-- 🔭 I love building full-stack projects using the **MERN** stack
-- 📫 Reach me at: **vedantsaparia@gmail.com**
+Hey there! I'm **Vedant C Saparia**, a passionate **Full-Stack Developer** from India who loves building clean and scalable web applications. I'm deeply into the **MERN stack** and always exploring new technologies to level up.
+
+- ⚙️ Tech I enjoy working with: `React`, `Node.js`, `Express`, `MongoDB`, `TypeScript`
+- 🧠 I love solving problems and bringing ideas to life through code
+- 🛠️ Constantly improving and learning one commit at a time!
+- 📬 Reach out to me at: **vedantsaparia@gmail.com**
+
+> *"Code is like humor. When you have to explain it, it’s bad."* 😄
 
 ---
 
