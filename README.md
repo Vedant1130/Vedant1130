@@ -18,7 +18,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,angular" />
 </p>
 
 ---
