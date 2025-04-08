@@ -44,5 +44,5 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vedant1130&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant1130&theme=react-dark" />
 </p>
